@@ -1,7 +1,8 @@
 # b-automation.github.io
 ## vsto:
-setup.exe: installationsdatei für vsto
-Realaisgruppenprüfgerät_ExcelAddin_*_TemporaryKey.pfx: zertifikat von vsto. Muss vor setup.exe installiert werden, siehe Doku
+_setup.exe_:                                              installationsdatei für vsto
+
+_Realaisgruppenprüfgerät_ExcelAddin_*_TemporaryKey.pfx_:  zertifikat von vsto. Muss vor setup.exe installiert werden, siehe Doku
 
 ## rgpg
-setup.msi: installationsdatei für rgpg.exe. Benötigt kein Zertifikat
+_setup.msi_:                                              installationsdatei für rgpg.exe. Benötigt kein Zertifikat
